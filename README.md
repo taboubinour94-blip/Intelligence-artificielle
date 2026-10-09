@@ -49,6 +49,10 @@ cet outil peut etre utilisée dans plusieurs domaines:
 *Recherche
 *Entreprises
 
+L'intégration de l'Intelligence Artificielle générative représente une avancée majeure, offrant des opportunités inédites pour automatiser et enrichir la recherche d'informations. Cependant, son utilisation ne vient pas sans défis majeurs. Parmi ses principales limites, on retrouve les hallucinations, où le modèle génère des informations factuellement fausses ou inventées avec un grand niveau d'assurance, ainsi que les biais algorithmiques, issus des données d'entraînement, qui peuvent perpétuer des stéréotypes ou produire des résultats discriminatoires.
+
+Pour surmonter ces contraintes et garantir une adoption responsable, l'application d'une charte d'usage éthique est indispensable. Cette démarche repose d'abord sur la transparence quant à l'utilisation de l'IA et la vérification systématique de chaque résultat produit. Elle exige également le respect strict de la confidentialité des données manipulées et le maintien de l'intégrité académique, en s'assurant que l'outil reste une aide à la réflexion et non un substitut au travail personnel. Enfin, l'exercice d'un esprit critique demeure la pierre angulaire de cette charte, rappelant que la responsabilité finale du contenu incombe toujours à l'utilisateur humain.
+
 
 
 
